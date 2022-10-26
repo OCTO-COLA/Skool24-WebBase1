@@ -5,10 +5,13 @@ body{
     text-align: center;
 }
 header{
- border 1px solid color: black;
+ border-bottom: 1px solid;
 }
 main{
-
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
+
 footer{
+    border-top: 1px solid;
 }
